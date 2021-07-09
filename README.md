@@ -27,5 +27,6 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neha030&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha030&theme=tokyonight)
  
 
