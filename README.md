@@ -9,6 +9,7 @@
 - 💬 Ask me about programming and tech related stuffs
 - 📫 How to reach me: nehajha12150@gmail.com
 
+
 ### Connect with me :
 
 <div align="center">
@@ -22,6 +23,9 @@
 
   
   </div>
+
+
+<h3>Tech stack I work with 👇</h3>
 
 
 <h4>Web development stack</h4> 
