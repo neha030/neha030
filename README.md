@@ -25,7 +25,7 @@
   </div>
 
 
-<h3>Tech stack I work with 👇</h3>
+<h3>Tech Stacks I work with 👇</h3>
 
 
 <h4>Web development stack</h4> 
